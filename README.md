@@ -1,3 +1,6 @@
 # All_The_Feels_Django
 
-# Brandon Wright
+# Brandon Wright!!!
+# Ryani Durham
+# Rachel Taima
+# Heath Friend
