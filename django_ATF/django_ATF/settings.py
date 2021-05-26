@@ -54,7 +54,6 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
-
 ROOT_URLCONF = 'django_ATF.urls'
 
 TEMPLATES = [
