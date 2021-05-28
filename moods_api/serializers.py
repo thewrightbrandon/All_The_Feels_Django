@@ -10,4 +10,4 @@ class MoodSerializer(serializers.ModelSerializer):
 class CommentSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comment
-        fields = ('id', 'name', 'comment',)
+        fields = ('id', 'name', 'comment', 'mood_id')

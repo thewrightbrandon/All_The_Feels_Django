@@ -12,3 +12,4 @@ class Mood(models.Model):
 class Comment(models.Model):
     name = models.CharField(max_length=150)
     comment = models.TextField()
+    mood_tag = models.IntegerField(null=True)
