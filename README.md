@@ -1,18 +1,19 @@
 # All_The_Feels_Django
+Check out the live site at: [All The Feels!](https://all-the-feels-app.herokuapp.com/)
 
 ## Collaborators
-    - Brandon Wright!!!
-    - Ryani Durham!!!
-    - Rachel Taima!!!
-    - Heath Friend!!!
+  - Brandon Wright
+  - Ryani Durham
+  - Rachel Taima
+  - Heath Friend
 
 ## About
-    - The backend for All The Feels has been created using Django and has been deployed using Heroku.
-    - Peer Coded: Brandon was the code typer.
+  - This repo is for the Django API server used for our All The Feels app.
 
-### Approach Taken:
-    - May 25 2021
-        - Got our app approved by the tech lead
-        - Tackled Django first to get the backend running
-    - May 26 2021
-        - Properly deployed to Heroku with some bumps but we were more stressed in the begin of project week.
+## Approach Taken:
+  - May 25 2021
+    - Created our Django project and had our back end ready for deployment.
+  - May 26 2021
+    - Properly deployed to Heroku with some bumps but we were more stressed in the begin of project week.
+  - May 28 2021
+    - Deployed some migrations to Heroku to include our comment model. Back End functional.  
