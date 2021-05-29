@@ -1,4 +1,4 @@
-# All_The_Feels_Django
+# All The Feels Back End
 Check out the live site at: [All The Feels!](https://all-the-feels-app.herokuapp.com/)
 
 ## Collaborators
@@ -8,7 +8,7 @@ Check out the live site at: [All The Feels!](https://all-the-feels-app.herokuapp
   - Heath Friend
 
 ## About
-  - This repo is for the Django API server used for our All The Feels app.
+  - This repo is for the Django API server used for the All The Feels app.
 
 ## Approach Taken:
   - May 25 2021
