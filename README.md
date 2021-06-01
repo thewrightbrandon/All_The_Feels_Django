@@ -17,3 +17,5 @@ Check out the live site at: [All The Feels!](https://all-the-feels-app.herokuapp
     - Properly deployed to Heroku with some bumps but we were more stressed in the begin of project week.
   - May 28 2021
     - Deployed some migrations to Heroku to include our comment model. Back End functional.  
+  - May 29 2021
+    - Added a another model and established a one-to-many relationship.
